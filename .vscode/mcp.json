@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "jenkins": {
+      "type": "sse",
+      "url": "http://localhost:3000/sse",
+      "autoApprove": [],
+      "disabled": false,
+      "timeout": 60
+    }
+  }
+}
